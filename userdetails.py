@@ -1,5 +1,7 @@
 firstname = input("enter the first name")
 lastname = input("enter your last name")
 city = input("enter the city")
+collage = input("enter your collage name")
 print ("your last name and first name:",firstname +""+ lastname)
 print("your city name:",city)
+print("your collage name:",collage)
